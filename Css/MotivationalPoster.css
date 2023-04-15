@@ -1,0 +1,24 @@
+*{
+    background-color: black;
+    margin: 10px;
+}
+
+img{
+    width: 100%;
+    height: auto;
+    border: 5px solid yellow;
+    margin: auto;
+}
+
+h1{
+    color: yellow;
+    font-family: 'Libre Baskerville', serif;
+    text-align: center;
+    letter-spacing: 5px;
+    text-transform: uppercase;
+}
+
+p{
+    color: whitesmoke;
+    text-align: center;
+}
